@@ -1,0 +1,3 @@
+/home/paul/Bureau/BTC_WALLET/COLD_WALLET/build/CMakeFiles/cold_wallet.dir
+/home/paul/Bureau/BTC_WALLET/COLD_WALLET/build/CMakeFiles/edit_cache.dir
+/home/paul/Bureau/BTC_WALLET/COLD_WALLET/build/CMakeFiles/rebuild_cache.dir
